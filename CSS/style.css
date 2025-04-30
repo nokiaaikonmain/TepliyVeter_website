@@ -1,0 +1,8 @@
+a:hover{
+    color: blueviolet;
+}
+
+input:focus{
+    border:1px solid red;
+    outline:none;
+}
