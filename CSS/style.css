@@ -1,8 +1,50 @@
-a:hover{
-    color: blueviolet;
+/*root:{}
+
+html{}
+
+body{
+      
+}
+*/
+.dark{
+    background-color: #232326;
+}
+.wrapper{
+    max-width:1200px;
+    margin:0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.title-h1{
+    font-size: 4.625rem;
+    color:#f3f2f0;
+   
+   
+    background-color:deepskyblue;
+   
+    
+}
+.name{
+    font-size: 2rem;
+    color:#f3f2f0;
+}
+.photo{
+    width:100%;
+   
+}
+.nav-link{
+    text-decoration: none;
+    color:#f3f2f0;
+    font-size: 1rem;       
+}
+.nav-link:hover{
+    color:red;
 }
 
-input:focus{
-    border:1px solid red;
-    outline:none;
+/*.title-h1{
+    font-size: 72px;
+    color: red;
+}
+.name{
+    font-size: 24px;
 }
